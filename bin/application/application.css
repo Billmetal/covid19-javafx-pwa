@@ -1,0 +1,4 @@
+.FundoTela{
+	-fx-background-image:url("/images/covid19.jpg");
+	-fx-background-size: 100% 100%;
+}
