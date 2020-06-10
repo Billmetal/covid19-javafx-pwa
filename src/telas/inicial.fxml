@@ -40,7 +40,7 @@
          <children>
             <VBox alignment="TOP_RIGHT">
                <children>
-                  <Label text="10 Países mais prejudidados">
+                  <Label text="Todos os países afetados">
                      <font>
                         <Font name="Arial Black" size="18.0" />
                      </font>
